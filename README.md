@@ -1,2 +1,2 @@
 # ChatApplicationWithDjango
-Basci Use of Django-Channels for Sockets
+Basic Use of Django-Channels for Sockets
